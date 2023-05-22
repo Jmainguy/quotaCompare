@@ -13,7 +13,7 @@ require (
 	github.com/imdario/mergo v0.3.9 // indirect
 	k8s.io/api v0.27.2
 	k8s.io/apimachinery v0.27.2
-	k8s.io/client-go v0.27.2
+	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/klog v1.0.0 // indirect
 	k8s.io/metrics v0.27.2
 	sigs.k8s.io/structured-merge-diff v0.0.0-20190525122527-15d366b2352e // indirect
