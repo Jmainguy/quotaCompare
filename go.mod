@@ -11,11 +11,11 @@ require (
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/gophercloud/gophercloud v0.1.0 // indirect
 	github.com/imdario/mergo v0.3.9 // indirect
-	k8s.io/api v0.27.4
-	k8s.io/apimachinery v0.27.4
-	k8s.io/client-go v0.27.4
+	k8s.io/api v0.28.0
+	k8s.io/apimachinery v0.28.0
+	k8s.io/client-go v0.28.0
 	k8s.io/klog v1.0.0 // indirect
-	k8s.io/metrics v0.27.4
+	k8s.io/metrics v0.28.0
 	sigs.k8s.io/structured-merge-diff v0.0.0-20190525122527-15d366b2352e // indirect
 	sigs.k8s.io/structured-merge-diff/v3 v3.0.0 // indirect
 	sigs.k8s.io/yaml v1.3.0
