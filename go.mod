@@ -5,10 +5,10 @@ go 1.22.0
 toolchain go1.22.4
 
 require (
-	k8s.io/api v0.30.1
-	k8s.io/apimachinery v0.30.1
-	k8s.io/client-go v0.30.1
-	k8s.io/metrics v0.30.1
+	k8s.io/api v0.30.2
+	k8s.io/apimachinery v0.30.2
+	k8s.io/client-go v0.30.2
+	k8s.io/metrics v0.30.2
 	sigs.k8s.io/yaml v1.4.0
 )
 
