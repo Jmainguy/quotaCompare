@@ -2,7 +2,7 @@ module github.com/jmainguy/quotaCompare
 
 go 1.22.0
 
-toolchain go1.22.4
+toolchain go1.23.1
 
 require (
 	k8s.io/api v0.31.1
